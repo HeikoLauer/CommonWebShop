@@ -1,0 +1,14 @@
+Wed Jan 11 17:22:05 CET 2017 : Apache Derby Network Server 10.8.3.2 - (1557835) wurde gestartet und ist bereit, Verbindungen am Port 1527 zu akzeptieren.
+----------------------------------------------------------------
+Wed Jan 11 17:32:02 CET 2017:
+Booten von Derby Version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): Instanz a816c00e-0159-8e56-1de8-ffff8f9d0ce1
+für Datenbankverzeichnis /home/heiko/Dropbox/Programme/derby-db/bin/tib_prod   mit Klassenladeprogrammn sun.misc.Launcher$AppClassLoader@5e2de80c
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/home/heiko/Dropbox/Programme/derby-db/bin
+os.name=Linux
+os.arch=amd64
+os.version=4.4.36-8-default
+derby.system.home=/home/heiko/Dropbox/Programme/derby-db/bin
+Das Ladeprogramm für Datenbankklassen wurde gestartet - derby.database.classpath=''
